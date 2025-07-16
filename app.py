@@ -1,7 +1,7 @@
 import streamlit as st
 from algorithms import *
 
-st.title("Algorithm Lab")
+st.title("💻 Algorithm Lab")
 
 st.sidebar.title("Choose an Algorithm")
 algorithm = st.sidebar.selectbox(
